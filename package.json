@@ -1,0 +1,15 @@
+{
+  "name": "backend_project",
+  "version": "1.0.0",
+  "description": "A Backend Project to gain the knowledge about the Backend Course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "Backend"
+  ],
+  "author": "Rohit Prajapati",
+  "license": "ISC"
+}
